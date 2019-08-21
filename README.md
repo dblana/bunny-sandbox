@@ -1,2 +1,2 @@
 # bunny-sandbox
-A toy repository for practising with milestones, issues, pull requests, collaborators etc.
+A mock repository for practising with milestones, issues, pull requests, collaborators etc.
